@@ -1,6 +1,6 @@
 print ('what is your name?')
 myname = input()
-print ('whats up ' +  myname)
+print ('what's up ' +  myname)
 print ('what is the length of you name?')
 print (len(myname))
 print ('what is you age?')
